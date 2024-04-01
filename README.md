@@ -24,6 +24,4 @@ pip install -r requirements.txt
 ```
 4.
 ### Run main.py file
-```terminal
-RSS_URL = 'Your news rss url'
-``` 
+
